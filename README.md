@@ -1,1 +1,1 @@
-![My Photo](profile-banner.jpg)
+![My Photo](TE.png)
